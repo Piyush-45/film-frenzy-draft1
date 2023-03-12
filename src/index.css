@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ! importing fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
+body{
+    background-color: #000;
+    font-family: 'Lato', 'Segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* .scrollbar-hide{
+    scrollbar-width: none;
+
+} */
+::-webkit-scrollbar {
+    display: none;
+  }
