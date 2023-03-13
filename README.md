@@ -1,7 +1,7 @@
 
 <h1 style="color: red" class="text-4xl font-bold text-center mb-8" >FilmFrezy</h1>
 <p class="text-lg text-gray-700 mb-8">
-  FilmFrezy is a movie streaming web application built with HTML5, Tailwind CSS, ReactJS, and Firebase for the backend. It uses the TMDB API to fetch movie data and offers a frontend that allows users to browse movies based on their interests. There are three rows of movies displayed on the homepage - upcoming movies, latest trends, and recommended movies. Users can sign in or log in to save their favourite movies to their account.
+  FilmFrezy is a premium video streaming web application built with HTML5, Tailwind CSS, ReactJS, and Firebase for the backend. It uses the TMDB API to fetch movie data and offers a frontend that allows users to browse movies based on their interests. There are three rows of movies displayed on the homepage - upcoming movies, latest trends, and recommended movies. Users can sign in or log in to save their favourite movies to their account.
 </p>
 
 <h2 class="text-2xl font-bold mb-4">Features</h2>
