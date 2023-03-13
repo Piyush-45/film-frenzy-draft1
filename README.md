@@ -29,7 +29,7 @@
   <li>Clone the repository to your local machine.</li>
   <li>Open a terminal window and navigate to the project directory.</li>
   <li>Run the command <code>npm install</code> to install the dependencies.</li>
-  <li>Run the command <code>npm start</code> to start the application.</li>
+  <li>Run the command <code>npm run dev</code> to start the application.</li>
 </ol>
 
 <p class="text-lg text-gray-700 mb-8">
