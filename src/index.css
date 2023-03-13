@@ -18,3 +18,18 @@ body{
 ::-webkit-scrollbar {
     display: none;
   }
+
+.button{
+    background: linear-gradient(to right, transparent 0%, #31af94 71%, #1978d1 86%);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  color: white;
+  /* font-weight: bold; */
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  border: none;
+  font-size: 1.3rem;
+/* padding-inline: 1rem; */
+font-weight: 700;
+
+}
